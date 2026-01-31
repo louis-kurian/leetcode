@@ -4,5 +4,5 @@ leet code activites
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         s = str(x)[::-1]
-        return str(x) == s
+        return str(x) == s 
          
